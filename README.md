@@ -10,13 +10,9 @@ This repository showcases a collection of Internet of Things (IoT) applications 
 
 Each folder in this repository represents a separate IoT application built using MoT:
 
-- `Brightness_Detection` – Uses the mobile phone’s light sensor (via the MOT IoT Kit Android app) to detect brightness levels and visualize them with dynamic plugins (grid, light bulb indicator, and timer-based color change).
+- `Brightness_Detection` – Uses the mobile phone’s light sensor (via the MOT IoT Kit Android app) to detect brightness levels and visualize them with dynamic plugins (grid, light bulb indicator, and lux-based color change).
 
-Project2_Name – Short description (e.g., Smart Lighting Control).
 
-Project3_Name – Short description (e.g., Air Quality Monitoring).
-
-(Update with your actual project names + one-line purpose!)
 
 🚀 Getting Started
 
@@ -32,31 +28,15 @@ cd Project1_Name
 
 Open the provided documentation or screenshots to explore the project setup.
 
-🖼️ Screenshots / Dashboards
 
-(Add some screenshots or GIFs of your MoT dashboards or mobile UI to make the repo more visual.)
 
 🛠️ Tools & Technologies
 
 Master of Things (MoT) – IoT application platform
+Protocols – MQTT 
 
-IoT Devices – e.g., Arduino, ESP32, Raspberry Pi (specify what you used)
 
-Protocols – MQTT / HTTP / CoAP (whichever applies)
-
-📖 Documentation
-
-Each project folder contains:
-
-Project overview
-
-Device connection details
-
-Dashboard configuration
-
-Data flow and usage
-
-📌 Future Work
+## 📌 Future Work
 
 Add more IoT use cases.
 
