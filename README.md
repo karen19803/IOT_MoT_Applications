@@ -11,6 +11,7 @@ This repository showcases a collection of Internet of Things (IoT) applications 
 Each folder in this repository represents a separate IoT application built using MoT:
 
 - `Brightness_Detection` – Uses the mobile phone’s light sensor (via the MOT IoT Kit Android app) to detect brightness levels and visualize them with dynamic plugins (grid, light bulb indicator, and lux-based color change).
+- `Bag_Monitoring_System` – Tracks bag location with GPS and monitors if the bag is open using a light sensor. Includes geo-fence alerts (100m radius around home) and email notifications when the bag leaves the safe zone.  
 
 
 
