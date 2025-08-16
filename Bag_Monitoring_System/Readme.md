@@ -25,6 +25,13 @@ The system provides real-time location tracking, detects if the bag is opened or
    - Bag ID
    - Phone Numbe+r  
    - Email  
+
+## 💻 Code Reference
+All code snippets used in this project are available in the [code/](code/) folder:  
+- [`custom_event.js`](code/custom_event.js) – Sends email if bag opens or leaves the geofence.  
+- [`login.js`](code/login.js) – Handles login button action.  
+- [`last_status.js`](code/last_status.js) – "OnPageLoad" logic for the last status page.  
+- [`history.js`](code/history.js) – Displays historical bag location data.  
      
 ## 📊 Results
 Screenshots and demo videos can be found in the [media/](media/) folder.
