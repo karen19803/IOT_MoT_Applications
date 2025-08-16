@@ -6,7 +6,7 @@ This repository showcases a collection of Internet of Things (IoT) applications 
 - Visualize insights.
 - Low-code development for quick prototyping.
 
-##📂 Repository Structure
+## 📂 Repository Structure
 
 Each folder in this repository represents a separate IoT application built using MoT:
 
