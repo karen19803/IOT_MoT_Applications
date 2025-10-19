@@ -15,7 +15,7 @@ Each folder in this repository represents a separate IoT application built using
 
 
 
-🚀 Getting Started
+## 🚀 Getting Started
 
 Clone this repository:
 
