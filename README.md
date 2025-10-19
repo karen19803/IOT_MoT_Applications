@@ -31,20 +31,9 @@ Open the provided documentation or screenshots to explore the project setup.
 
 
 
-🛠️ Tools & Technologies
+## 🛠️ Tools & Technologies
 
 Master of Things (MoT) – IoT application platform
 Protocols – MQTT 
 
 
-## 📌 Future Work
-
-Add more IoT use cases.
-
-Expand documentation with step-by-step tutorials.
-
-Explore integration with AI/ML for predictive analytics.
-
-🤝 Contributing
-
-Pull requests and suggestions are welcome!
